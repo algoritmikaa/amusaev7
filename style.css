@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    float: right;
+}
+
+
+iframe {
+    margin: 20px;
+}
